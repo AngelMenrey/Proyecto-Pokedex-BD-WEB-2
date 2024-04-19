@@ -1,0 +1,9 @@
+body {
+  background-image: url("../src/assets/background-login.png");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
