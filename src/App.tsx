@@ -7,11 +7,11 @@ function App() {
     <>
       {/* Este es el componente de login*/}
 
-      {/*<Login />*/}
+      <Login />
 
       {/* Este es el componente de ejemplo de la conexion del backend con front end */}
 
-      <BackendConnectionExample />
+      {/*<BackendConnectionExample /> */}
     </>
   );
 }
